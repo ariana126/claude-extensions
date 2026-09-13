@@ -1,0 +1,12 @@
+{
+  "name": "ariana-marketplace",
+  "description": "Ariana's personal collection of Claude extensions — skills, subagents, hooks, rules, and other customizations",
+  "owner": { "name": "Ariana Maghsoudi", "email": "ariana.maghsoudi82@gmail.com" },
+  "plugins": [
+    {
+      "name": "ariana-skills",
+      "source": "./",
+      "description": "Ariana's personal collection of agent skills"
+    }
+  ]
+}
