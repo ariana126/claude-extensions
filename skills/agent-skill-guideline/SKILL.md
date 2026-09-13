@@ -13,7 +13,7 @@ metadata:
   version: "1.0"
   author: ariana.maghsoudi82@gmail.com
   sources: 
-   - https://agentskills.io
+   - agentskills.io
 ---
 
 # Agent Skill Guideline
